@@ -81,6 +81,7 @@ endmodule
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
 Developed by: Nikhil Nirmal Kumar 
+
 RegisterNumber: 212225230201
  
 **Logic Circuit and Truth Table**

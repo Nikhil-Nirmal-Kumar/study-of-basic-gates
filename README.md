@@ -84,7 +84,7 @@ Developed by: Nikhil Nirmal Kumar
 
 RegisterNumber: 212225230201
  
-**Logic Circuit and Truth Table**
+**Logic Circuit and Truth Table:**
 
 
 
@@ -95,10 +95,11 @@ RegisterNumber: 212225230201
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc9647e7-899a-4c45-af13-bc25e188967d" />
 
 
-**RTL**
+**RTL:**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa679e67-93ca-4fb9-9f85-0fbeca61b131" />
 
 
 **Result:**
+
 Thus the basic logic gates are studied and the truth tables are verified.
 

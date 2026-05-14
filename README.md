@@ -63,6 +63,7 @@ Y= A⊕B
 
 
 **PROGRAM**
+
 ```
 module Exp1(a,b,orgate,andgate,notgate,xorgate,xnorgate,norgate,nandgate);
 input a,b;
@@ -76,6 +77,7 @@ nor(norgate,a,b);
 nand(nandgate,a,b);
 endmodule
 ```
+
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
 Developed by: Nikhil Nirmal Kumar 
@@ -84,11 +86,14 @@ RegisterNumber: 212225230201
 **Logic Circuit and Truth Table**
 <img width="431" height="826" alt="image" src="https://github.com/user-attachments/assets/54e0fa48-9b4b-4e5b-a84c-859f751b2b9a" />
 
+
 **RTL realization Output:** 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc9647e7-899a-4c45-af13-bc25e188967d" />
 
+
 **RTL**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa679e67-93ca-4fb9-9f85-0fbeca61b131" />
+
 
 **Result:**
 Thus the basic logic gates are studied and the truth tables are verified.

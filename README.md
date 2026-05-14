@@ -84,6 +84,9 @@ Developed by: Nikhil Nirmal Kumar
 RegisterNumber: 212225230201
  
 **Logic Circuit and Truth Table**
+
+
+
 <img width="431" height="826" alt="image" src="https://github.com/user-attachments/assets/54e0fa48-9b4b-4e5b-a84c-859f751b2b9a" />
 
 
